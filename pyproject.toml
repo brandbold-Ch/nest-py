@@ -1,0 +1,11 @@
+[project]
+name = "nest_py"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi[standart]>=0.119.0",
+    "pydantic[email]>=2.12.0",
+    "uvicorn>=0.37.0",
+]
