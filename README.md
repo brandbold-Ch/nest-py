@@ -3,7 +3,7 @@
 A Python project generator inspired by NestJS — modular architecture, controllers, services, and dependency injection.
 
 > ⚠️ **Currently in development.**  
-> For now, Archon supports **FastAPI** projects only.
+> For now, Nest-Py supports **FastAPI** projects only.
 
 ## Features
 - CLI-based project scaffolding
